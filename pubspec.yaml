@@ -60,8 +60,8 @@ dev_dependencies:
 flutter_icons:
   ios: true
   android: true
-  image_path_ios: "assets/images/icon-400.png"
-  image_path_android: "assets/images/icon-400.png"
+  image_path_ios: "assets/images/icon-400 (Original).png"
+  image_path_android: "assets/images/icon-400 (Original).png"
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
